@@ -9,7 +9,8 @@ const WelcomeScreen = () => {
                     SkyWatch
                 </Typography>
                 <Typography variant="h6" fontWeight={400}>
-                    Find the weather of your city
+                    {/* Find the weather of your city */}
+                    check weather
                 </Typography>
             </Box>
             <Box>
